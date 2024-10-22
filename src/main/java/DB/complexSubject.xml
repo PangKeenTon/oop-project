@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<complexSubjects>
+    <complexSubject>
+        <id>3</id>
+        <name>Lê Văn C</name>
+        <birthDate>1978-03-22</birthDate>
+        <address>789 Đường GHI, Quận 3, TP.HCM</address>
+        <permanentAddress>789 Đường GHI, Quận 3, TP.HCM</permanentAddress>
+        <relatives>Lê Văn F (Cha), Nguyễn Thị G (Mẹ)</relatives>
+        <subjectType>Nhân thân đặc biệt</subjectType>
+    </complexSubject>
+    <complexSubject>
+        <id>1</id>
+        <name>Nguyễn Văn A</name>
+        <birthDate>1990-01-01</birthDate>
+        <address>123 Đường ABC, Quận 1, TP.HCM</address>
+        <permanentAddress>123 Đường ABC, Quận 1, TP.HCM</permanentAddress>
+        <relatives>Nguyễn Văn B (Cha), Trần Thị C (Mẹ)</relatives>
+        <subjectType>Tiền án</subjectType>
+    </complexSubject>
+    <complexSubject>
+        <id>4</id>
+        <name>Phạm Thị D</name>
+        <birthDate>1992-07-10</birthDate>
+        <address>101 Đường JKL, Quận 4, TP.HCM</address>
+        <permanentAddress>101 Đường JKL, Quận 4, TP.HCM</permanentAddress>
+        <relatives>Phạm Văn H (Cha), Trần Thị I (Mẹ)</relatives>
+        <subjectType>Tiền sự</subjectType>
+    </complexSubject>
+    <complexSubject>
+        <id>2</id>
+        <name>Trần Thị B</name>
+        <birthDate>1985-05-15</birthDate>
+        <address>456 Đường DEF, Quận 2, TP.HCM</address>
+        <permanentAddress>456 Đường DEF, Quận 2, TP.HCM</permanentAddress>
+        <relatives>Trần Văn D (Cha), Lê Thị E (Mẹ)</relatives>
+        <subjectType>Nghiện</subjectType>
+    </complexSubject>
+    <complexSubject>
+        <id>5</id>
+        <name>ioiuouio</name>
+        <birthDate>12/32/21321</birthDate>
+        <address>strings</address>
+        <permanentAddress>Koa</permanentAddress>
+        <relatives>string</relatives>
+        <subjectType>Nghiện</subjectType>
+    </complexSubject>
+    <complexSubject>
+        <id>6</id>
+        <name>a</name>
+        <birthDate>a</birthDate>
+        <address>aa</address>
+        <permanentAddress>a</permanentAddress>
+        <relatives>a</relatives>
+        <subjectType>a</subjectType>
+    </complexSubject>
+</complexSubjects>
